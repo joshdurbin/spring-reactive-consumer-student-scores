@@ -1,0 +1,4 @@
+scores:
+  provider:
+    host: http://live-test-scores.herokuapp.com
+    resource: /scores
